@@ -1,6 +1,6 @@
 documento = open('doc.txt','w')
 
-for q in range(1, 50):
+for q in range(1, 30):
 	documento.write('''
 ------------------------------------------
 {}.
