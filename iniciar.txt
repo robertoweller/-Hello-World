@@ -1,0 +1,3 @@
+setxkbmap -model abnt2 -layout br
+
+# Procurar por instaladores do github
